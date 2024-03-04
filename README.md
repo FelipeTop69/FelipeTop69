@@ -27,7 +27,7 @@ En mi etapa práctica del Técnico en Programación de Software, tuve la oportun
 -JAVASCRIPT
 -MYSQL
 
-##Goals 🚀
+## Goals 🚀
 -Mejorar mis habilidades como programador en diversas áreas, incluyendo la resolución de problemas, la optimización del código, el diseño de algoritmos eficientes, código escalable y limpio  y la familiarización con nuevas tecnologías y frameworks. 
 -Aprender inglés para potenciar mi rendimiento en el desarrollo, reconociendo la importancia del inglés en el mundo de la programación y estoy decidido a mejorar mi dominio de este idioma. Aprender inglés no solo mejorará mi capacidad para entender y utilizar documentación técnica, tutoriales y recursos en línea, sino que también facilitará la comunicación con colegas y futuros clientes internacionales, lo que en última instancia contribuirá a mi éxito como programador.
 -Buscar oportunidades laborales que me permitan demostrar mis habilidades como programador en un entorno desafiante y colaborativo, contribuyendo al éxito de la empresa y trabajando en proyectos significativos. Además, aspirar a fundar mi propia empresa en compañía de grandes colaboradores, donde podamos crear soluciones innovadoras y hacer una diferencia en la industria tecnológica.
