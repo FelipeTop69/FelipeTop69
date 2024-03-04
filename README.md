@@ -21,16 +21,16 @@ Hello Universe 💫<br>Soy Ruben Felipe Tovar Aviles, un estudiante apasionado q
 
 ## Projects 🏆
 En mi etapa práctica del Técnico en Programación de Software, tuve la oportunidad de desarrollar un proyecto junto con otro compañero para la empresa "TuModaShoes". El proyecto consistía en un eCommerce básico pero funcional. Para el desarrollo del proyecto utilizamos las siguientes tecnologías:
--HTML
--CSS
--PHP
--JAVASCRIPT
--MYSQL
+- HTML
+- CSS
+- PHP
+- JAVASCRIPT
+- MYSQL
 
 ## Goals 🚀
--Mejorar mis habilidades como programador en diversas áreas, incluyendo la resolución de problemas, la optimización del código, el diseño de algoritmos eficientes, código escalable y limpio  y la familiarización con nuevas tecnologías y frameworks. 
--Aprender inglés para potenciar mi rendimiento en el desarrollo, reconociendo la importancia del inglés en el mundo de la programación y estoy decidido a mejorar mi dominio de este idioma. Aprender inglés no solo mejorará mi capacidad para entender y utilizar documentación técnica, tutoriales y recursos en línea, sino que también facilitará la comunicación con colegas y futuros clientes internacionales, lo que en última instancia contribuirá a mi éxito como programador.
--Buscar oportunidades laborales que me permitan demostrar mis habilidades como programador en un entorno desafiante y colaborativo, contribuyendo al éxito de la empresa y trabajando en proyectos significativos. Además, aspirar a fundar mi propia empresa en compañía de grandes colaboradores, donde podamos crear soluciones innovadoras y hacer una diferencia en la industria tecnológica.
+- Mejorar mis habilidades como programador en diversas áreas, incluyendo la resolución de problemas, la optimización del código, el diseño de algoritmos eficientes, código escalable y limpio  y la familiarización con nuevas tecnologías y frameworks. 
+- Aprender inglés para potenciar mi rendimiento en el desarrollo, reconociendo la importancia del inglés en el mundo de la programación y estoy decidido a mejorar mi dominio de este idioma. Aprender inglés no solo mejorará mi capacidad para entender y utilizar documentación técnica, tutoriales y recursos en línea, sino que también facilitará la comunicación con colegas y futuros clientes internacionales, lo que en última instancia contribuirá a mi éxito como programador.
+- Buscar oportunidades laborales que me permitan demostrar mis habilidades como programador en un entorno desafiante y colaborativo, contribuyendo al éxito de la empresa y trabajando en proyectos significativos. Además, aspirar a fundar mi propia empresa en compañía de grandes colaboradores, donde podamos crear soluciones innovadoras y hacer una diferencia en la industria tecnológica.
 
 ## 🌐 Socials and Contact:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/felipexx0869) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rubenfelipe.tovaraviles.3/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipeaviles_06) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:pipeaviles1608@gmail.com)
