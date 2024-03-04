@@ -10,12 +10,12 @@
 ##  About Me 👦🏻
 Hello Universe 💫<br>Soy Ruben Felipe Tovar Aviles, un estudiante apasionado que está dando sus primeros pasos en el fascinante mundo de la programación. Con grandes ambiciones y oportunidades de conocimiento, estoy emocionado de explorar todas las facetas de la tecnología y contribuir al crecimiento del mundo digital.
 
-## Education
+## Education 🧩
 - Tecnólogo en Análisis y Desarrollo de Software (SENA) (En Desarrollo)
 - Técnico en Programación de Software (I.E Técnico Superior)
 - Bachiller (I.E Técnico Superior)
 
-## Certified courses
+## Certified courses 📄
 - Elaborar Circuitos Electrónicos (SENA)
 - Diseño y Construcción de Prototipos (SENA)
 
