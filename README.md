@@ -52,3 +52,31 @@ En mi etapa práctica del Técnico en Programación de Software, tuve la oportun
 [![](https://visitcount.itsvg.in/api?id=FelipeTop69&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- 
+Shhh 🥷
+
+# Cifrar y Descifrar Usando EncryptByPassPhrase
+
+## Cifrar 🔐
+```sql
+DECLARE @clave NVARCHAR(128) = '';
+DECLARE @textoOriginal NVARCHAR(MAX) = '';
+
+DECLARE @cifrado VARBINARY(MAX);
+SET @cifrado = EncryptByPassPhrase(@clave, @textoOriginal);
+
+
+SELECT @cifrado AS TextoCifrado;
+```
+## Descifrar 🔓
+```sql
+DECLARE @claveDescifrar NVARCHAR(128) = '';
+DECLARE @textoCifrado VARBINARY(MAX) = 
+
+DECLARE @descifrado NVARCHAR(MAX);
+SET @descifrado = CONVERT(NVARCHAR(MAX), DecryptByPassPhrase(@claveDescifrar, @textoCifrado));
+
+SELECT @descifrado AS TextoDescifrado;
+```
+-->
